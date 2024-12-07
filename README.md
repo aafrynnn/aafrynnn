@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadia Afreen
-- 👀 I’m interested in: Medical Data science, Gen AI and Imaging 
+- 👀 I’m interested in: Medical Data science, Gen AI and Radiology Imaging 
 - 🌱 I’m currently learning: Radiology Imaging and Generative AI
 - 💞️ I’m looking to collaborate: Gen AI and Imaging opportunities
 - 📫 How to reach me : afreensadia1999@gmail.com
